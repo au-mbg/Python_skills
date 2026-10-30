@@ -1,0 +1,50 @@
+---
+Title: Python Kompetancer
+format: HTML
+jupyter: python3
+---
+
+## Livet molekyler
+In IMol the student learns to use very simple code pieces and use python as a calculator. The technical setup in this course is a github website that uses an extension called quarto-live which allows the students to write and execute code all on one website.
+Example from defining variables and calculations:
+
+![definitions and calculations]('/Users/au666840/Documents/Python kompetancer/Skærmbillede 2026-10-30 kl. 12.49.08.png')
+
+Introduction to definitions and how you use them - at this point not expected that they can write a function from scratch but that they can fill it out using scaffold, so it calculates what they need. 
+
+![Defining functions]('/Users/au666840/Documents/Python kompetancer/Skærmbillede 2026-10-30 kl. 12.50.38.png')
+
+Use of simple functions such as len() and sum()
+![use of functions]('/Users/au666840/Documents/Python kompetancer/Skærmbillede 2026-10-30 kl. 13.25.37.png')
+
+
+Small introduction to indexing and a small assignment on this
+![Indexing]('/Users/au666840/Documents/Python kompetancer/Skærmbillede 2026-10-30 kl. 13.26.28.png')
+
+short introduction to integers, floats and strings
+Introduction to arrays and dataframes. 
+
+
+Introduction to how to do calculations on dataframes and access values in columns. 
+![calculations with dataframes]('/Users/au666840/Documents/Python kompetancer/Skærmbillede 2026-10-30 kl. 13.27.56.png')
+
+Introduction to plots in python - seeing the code and using this as scaffold to make a single plot as preparation for fysisk biokemi.
+
+![Plot data]('/Users/au666840/Documents/Python kompetancer/Skærmbillede 2026-10-30 kl. 13.28.23.png')
+![Plot data]('/Users/au666840/Documents/Python kompetancer/Skærmbillede 2026-10-30 kl. 13.28.33.png')
+
+In Imol they meet all these new expressions but are in no way expected to be able to put code together from scratch. This will still only be taught in Kaspers course Bioinformatics and programming. They are introduced to coding in preparation for fysisk biokemi, for the data analysis part of the course. 
+
+
+
+## Genetik 
+
+## Fysisk biokemi
+In fysisk biokemi data analysis is taken over from excel. The students learn to make plots and basic curve fitting in python. This course uses jupyterlite as the technical solution as this is a browser based page, that does not require the students to install anything
+
+
+## Strukturbiologi (foreløbig) 
+
+## Bioinformatik 
+
+

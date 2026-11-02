@@ -1,0 +1,11 @@
+project:
+  type: website
+
+website:
+  title: "My webpage"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    page-layout: full
